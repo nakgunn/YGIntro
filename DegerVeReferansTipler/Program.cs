@@ -12,7 +12,7 @@ namespace DegerVeReferansTipler
             sayi1 = sayi2; // sayi1 değeri kopyaladı sayi2 ile işi bitti. işimiz stack ile.
             sayi2 = 65;
             // sayi1 ?? 30
-
+            
             // int, decimal, float, double, bool = değer tip
 
 
