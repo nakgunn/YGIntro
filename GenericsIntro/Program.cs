@@ -10,6 +10,13 @@ namespace GenericsIntro
             // T'den dolayı ne verirsek o.
             MyList<string> isimler = new MyList<string>();
             MyList<int> sayilar = new MyList<int>();
+
+            isimler.Add("Necati");
+            isimler.Add("Akgün");
+
+         
+
+            
         }
     }
 }
